@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Austin Koontz</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Austin Koontz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Master&amp;rsquo;s student at Utah State University getting my degree in Biology and Ecology, under the direction of Dr. Will Pearse and Dr. Paul Wolf. My thesis research is centered on species delimitation genetics in two different contexts. The first of these contexts is focused on operational taxonomic units (OTUs), and utilizing phylogenetic techniques to inform the DNA similarity thresholds used to determine OTU boundaries. The second context concerns clarifying the genomic relations of the &lt;strong&gt;Primula cusickiana&lt;/strong&gt; complex, a species complex of plants native to the Great Basin region of the Western United States.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
