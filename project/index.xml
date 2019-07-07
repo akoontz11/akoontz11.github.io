@@ -2,20 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Austin Koontz</title>
-    <link>https://akoontz11.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Austin Koontz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://akoontz11.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MAD (Make A Database) R package</title>
-      <link>https://akoontz11.github.io/project/mad-make-a-database-r-package/</link>
+      <link>/project/mad-make-a-database-r-package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://akoontz11.github.io/project/mad-make-a-database-r-package/</guid>
+      <guid>/project/mad-make-a-database-r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoilTemp Database</title>
+      <link>/project/global-soiltemp-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/global-soiltemp-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbiota2</title>
+      <link>/project/symbiota2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/symbiota2/</guid>
       <description></description>
     </item>
     
