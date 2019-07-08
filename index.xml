@@ -691,11 +691,29 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Informing microbial species delimitation through phylogenetics</title>
+      <link>/project/informing-otu-boundaries-through-phylogenetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/informing-otu-boundaries-through-phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MAD (Make A Database) R package</title>
       <link>/project/mad-make-a-database-r-package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/project/mad-make-a-database-r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primula cusickiana species complex analysis</title>
+      <link>/project/primula-cusickiana-species-complex-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/primula-cusickiana-species-complex-analysis/</guid>
       <description></description>
     </item>
     
@@ -709,7 +727,7 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Symbiota2</title>
+      <title>Symbiota2 R package wrapper</title>
       <link>/project/symbiota2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
