@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Austin Koontz</title>
-    <link>/project/</link>
+    <link>https://akoontz11.github.io/project/</link>
     <description>Recent content in Projects on Austin Koontz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://akoontz11.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Informing microbial species delimitation through phylogenetics</title>
-      <link>/project/informing-otu-boundaries-through-phylogenetics/</link>
+      <link>https://akoontz11.github.io/project/informing-otu-boundaries-through-phylogenetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/informing-otu-boundaries-through-phylogenetics/</guid>
+      <guid>https://akoontz11.github.io/project/informing-otu-boundaries-through-phylogenetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAD (Make A Database) R package</title>
-      <link>/project/mad-make-a-database-r-package/</link>
+      <link>https://akoontz11.github.io/project/mad-make-a-database-r-package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/mad-make-a-database-r-package/</guid>
+      <guid>https://akoontz11.github.io/project/mad-make-a-database-r-package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primula cusickiana species complex analysis</title>
-      <link>/project/primula-cusickiana-species-complex-analysis/</link>
+      <link>https://akoontz11.github.io/project/primula-cusickiana-species-complex-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/primula-cusickiana-species-complex-analysis/</guid>
+      <guid>https://akoontz11.github.io/project/primula-cusickiana-species-complex-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SoilTemp Database</title>
-      <link>/project/global-soiltemp-database/</link>
+      <link>https://akoontz11.github.io/project/global-soiltemp-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/global-soiltemp-database/</guid>
+      <guid>https://akoontz11.github.io/project/global-soiltemp-database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symbiota2 R package wrapper</title>
-      <link>/project/symbiota2/</link>
+      <link>https://akoontz11.github.io/project/symbiota2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/symbiota2/</guid>
+      <guid>https://akoontz11.github.io/project/symbiota2/</guid>
       <description></description>
     </item>
     
