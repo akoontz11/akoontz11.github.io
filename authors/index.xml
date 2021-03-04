@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Austin Koontz</title>
-    <link>/authors/</link>
+    <link>https://akoontz11.github.io/authors/</link>
     <description>Recent content in Authors on Austin Koontz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://akoontz11.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <link>https://akoontz11.github.io/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a Master&amp;rsquo;s student at Utah State University, getting my degree in Biology and Ecology under the direction of Dr. Will Pearse and Dr. Paul Wolf. My thesis research is centered on species delimitation genetics in two different contexts.&lt;/p&gt;
+      <guid>https://akoontz11.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a recet Master&amp;rsquo;s graduate of Utah State University, with a degree in Biology and Ecology under the instruction of Dr. Will Pearse and Dr. Paul Wolf. I currently work as a Research Technician in the Pearse Lab. My thesis research is centered on species delimitation genetics in two different contexts.&lt;/p&gt;
 
 &lt;p&gt;The first of these is focused on operational taxonomic units (OTUs), and utilizing phylogenetic techniques to inform the DNA similarity thresholds used to determine OTU boundaries.&lt;/p&gt;
 
@@ -26,11 +26,47 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
+      <title>Austin Koontz (Coauthor)</title>
+      <link>https://akoontz11.github.io/authors/austin-koontz-coauthor/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/authors/robert-ford/</guid>
+      <guid>https://akoontz11.github.io/authors/austin-koontz-coauthor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Brandt</title>
+      <link>https://akoontz11.github.io/authors/benjamin-brandt/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://akoontz11.github.io/authors/benjamin-brandt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curtis Dyreson</title>
+      <link>https://akoontz11.github.io/authors/curtis-dyreson/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://akoontz11.github.io/authors/curtis-dyreson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonas J. Lembrechts</title>
+      <link>https://akoontz11.github.io/authors/jonas-j.-lembrechts/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://akoontz11.github.io/authors/jonas-j.-lembrechts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William D. Pearse</title>
+      <link>https://akoontz11.github.io/authors/william-d.-pearse/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://akoontz11.github.io/authors/william-d.-pearse/</guid>
       <description></description>
     </item>
     
