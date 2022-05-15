@@ -75,4 +75,4 @@ Currently, I'm comparing two types of genetic markers (SNPs generated using RADs
 
 I received my Master's of Science degree at Utah State University, where I worked in the [Pearse Lab](http://pearselab.com/) and the [Wolf Lab](https://paulwolflab.com/). More information about the research I did in each of these labs can also be found below. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
