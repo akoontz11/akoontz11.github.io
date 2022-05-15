@@ -48,6 +48,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=Rg6_vLUAAAAJ&hl=en
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/austinkoontz11
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/austin-koontz-01824763/
@@ -66,9 +69,9 @@ email: ""
 highlight_name: true
 ---
 
-I'm a Research Assistant in the [Hoban Conservation Lab](https://www.hobanlab.com/), with the Center for Tree Science at the Morton Arboretum. I work with other members of the lab, and other groups within and outside of the Arboretum, using population genetic and genomic data to inform the conservation of rare and common plant species. 
+I'm currently a Research Assistant in the [Hoban Conservation Lab](https://www.hobanlab.com/), with the Center for Tree Science at the Morton Arboretum. Using population genetic data, I work with other members of the lab, and other groups within and outside of the Arboretum, to inform the conservation of rare plant species. 
 
-Currently, I'm comparing two types of genetic markers (SNPs generated using RADseq techniques, and more traditional microsatellites) and characterizing how the choice of these markers effects measures of _ex situ_ conservation of plant species. I'm using genetic sequences from two rare oak species (_Quercus boyntonii_, and _Q. acerifola_) for the empirical data of this project, which is part of a broader effort by the [Global Conservation Consortium for Oaks (GCCO)](https://www.globalconservationconsortia.org/gcc/oak/) to protect threatened oak species. Links to the code for this analysis are below.
+Currently, I'm comparing two types of genetic markers (SNPs generated using RADseq, and more traditional microsatellites) and exploring how the choice of these markers effects measures of _ex situ_ conservation. I'm using genetic sequences from two rare oak species (_Quercus boyntonii_, and _Q. acerifola_) for the empirical data of this project, which is part of a broader effort by the [Global Conservation Consortium for Oaks (GCCO)](https://www.globalconservationconsortia.org/gcc/oak/) to protect threatened oak species. Links to the code for this analysis are below.
 
 I received my Master's of Science degree at Utah State University, where I worked in the [Pearse Lab](http://pearselab.com/) and the [Wolf Lab](https://paulwolflab.com/). More information about the research I did in each of these labs can also be found below. 
 
