@@ -1,6 +1,6 @@
 ---
 title: Ex situ conservation of oaks using RADseq vs. microsatellite markers
-summary: With the [Hoban Lab](https://www.hobanlab.com/) at the Morton Arboretum, I'm performing a comparison of RADseq and microsatellite data, to see how different genetic markers may impact _ex situ_ conservation recommendations for threatened trees. The empirical data for this project comes from two endemic US oaks, _Quercus boyntonii_ and _Q. acerifolia_, and the simulated component is being generated using the [fastSimcoal2 software](http://cmpg.unibe.ch/software/fastsimcoal27/). This work is part of the larger [Global Conservation Consortium of Oaks](https://globaltrees.org/projects/global-oak-conservation-partnership/), and is funded by the [Institute of Museum and Library Services](https://www.imls.gov/).
+summary: With the [Hoban Lab](https://www.hobanlab.com/) at the Morton Arboretum, I'm performing a comparison of RADseq and microsatellite data, to see how different genetic markers may impact _ex situ_ conservation recommendations for threatened trees. The [empirical data](https://submit.ncbi.nlm.nih.gov/subs/sra/SUB10415299/overview) for this project comes from two endemic US oaks, _Quercus boyntonii_ and _Q. acerifolia_. This work is part of the larger [Global Conservation Consortium of Oaks](https://globaltrees.org/projects/global-oak-conservation-partnership/), and is funded by the [Institute of Museum and Library Services](https://www.imls.gov/).
 tags:
 date: "2020-04-27T00:00:00Z"
 
