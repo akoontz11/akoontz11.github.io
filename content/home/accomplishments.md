@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards'
@@ -31,6 +31,7 @@ item:
   organization_url: https://www.nvnps.org/frontpage
   title: Margaret Williams Research Grant
   url: "https://www.nvnps.org/grants"
+item:
 - certificate_url: 
   date_end: ""
   date_start: "2019-03-01"
@@ -39,6 +40,7 @@ item:
   organization_url: https://biology.usu.edu/index
   title: USU Biology Dr. Ivan J. Palmblad Graduate Research Award
   url: https://biology.usu.edu/education/scholarships/graduate_scholarships
+item:
 - certificate_url: 
   date_end: ""
   date_start: "2019-03-01"
@@ -47,6 +49,7 @@ item:
   organization_url: https://www.usu.edu/ecology/students
   title: Ecology Center Graduate Research Award
   url: https://biology.usu.edu/education/scholarships/graduate_scholarships
+item:
 - certificate_url: 
   date_end: ""
   date_start: "2019-04-01"
