@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2019-06-01"
+  date_start: "2019-03-01"
   description: ""
   organization: Nevada Native Plant Society
   organization_url: https://www.nvnps.org/frontpage
@@ -33,12 +33,28 @@ item:
   url: "https://www.nvnps.org/grants"
 - certificate_url: 
   date_end: ""
-  date_start: "2019-09-01"
+  date_start: "2019-03-01"
   description: 
-  organization: Utah State University
+  organization: Utah State University, Biology Department
   organization_url: https://biology.usu.edu/index
   title: USU Biology Dr. Ivan J. Palmblad Graduate Research Award
   url: https://biology.usu.edu/education/scholarships/graduate_scholarships
+- certificate_url: 
+  date_end: ""
+  date_start: "2019-03-01"
+  description: 
+  organization: Utah State University, Ecology Program
+  organization_url: https://www.usu.edu/ecology/students
+  title: Ecology Center Graduate Research Award
+  url: https://biology.usu.edu/education/scholarships/graduate_scholarships
+- certificate_url: 
+  date_end: ""
+  date_start: "2019-04-01"
+  description: 
+  organization: Utah State University, College of Science
+  organization_url: https://biology.usu.edu/index
+  title: Dr. Lawrence H. Piette Graduate Student Scholarship
+  url: https://www.usu.edu/science/students/graduate/scholarships
 
 design:
   columns: '2' 
