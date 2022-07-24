@@ -10,7 +10,7 @@ role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Hoban Conservation Biology Lab
+- name: Hoban Conservation Lab
   url: https://www.hobanlab.com/
 - name: The Morton Arboretum
   url: https://mortonarb.org/science/center-for-tree-science/

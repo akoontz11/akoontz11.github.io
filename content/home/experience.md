@@ -40,7 +40,7 @@ experience:
     date_start: '2015-01-05'
     date_end: '2018-05-18'
     description: |2-
-        As an Applications Specialist, I wrote and supported method scripts for customers in the OEM setting and internally, for standardized protocols. I served as the primary application resource for customers from product development to launch, and interfaced with hardware and software engineers to design automation solutions.
+        As an Applications Specialist, I wrote and supported method scripts for customers in the OEM setting and internally, for standardized laboratory protocols. I served as the primary application resource for customers from product development to launch, and worked with hardware and software engineers to design automation solutions.
 
 design:
   columns: '2'
