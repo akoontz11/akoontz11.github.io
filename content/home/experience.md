@@ -30,7 +30,7 @@ experience:
     date_start: '2021-07-26'
     date_end: 
     description: |2-
-        My current role consists of conducting research on various projects focused on the conservation and genetic management of rare trees, both in wild and garden (_in situ_) scenarios. I also serve as the system administrator for the Hoban Lab Linux server, and the majority of my work consists of bioinformatic analyses.
+        My current role consists of performing genetic analyses for projects focused on the conservation and management of rare trees, both in wild (_in situ_) and garden (_ex situ_) scenarios. I also serve as the system administrator for the Hoban Lab Linux server, and the majority of my work consists of bioinformatic analyses.
         
   - title: Applications Specialist
     company: Hamilton Robotics
