@@ -11,7 +11,7 @@ authors:
 author_notes:
 - ""
 
-date: "2022-08T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.dib.2022.108438"
 
 # Schedule page publish date (NOT publication's date).
