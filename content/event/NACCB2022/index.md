@@ -1,10 +1,10 @@
 ---
-title: Resolving the systematics of an endangered primrose species complex (_Primula cusickiana_) to inform management in the Great Basin region of the United States
+title: Quantifying the Impact of Genetic Markers on Measures of ex situ Conservation
 
-event: Ecological Society of America 2020
-event_url: 
+event: North American Congress on Conservation Biology, 2022
+event_url: https://scbnorthamerica.org/index.php/naccb-2022/
 
-location: Salt Lake City, UT, USA
+location: Reno, NV, USA
 address:
   street: 
   city: 
@@ -22,7 +22,7 @@ abstract:
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-08-06T00:00:00Z"
+publishDate: "2022-07-20T00:00:00Z"
 
 authors: []
 tags: []
