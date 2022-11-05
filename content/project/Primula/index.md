@@ -1,11 +1,11 @@
 ---
 title: Primula cusickiana species complex analysis
-summary: The four members of the _Primula cusickiana_ species complex were each historically classified as their own species, before a 2001 review subsumed them to varieties of the same species (due to largely similar morphologies). Previous research has demonstrated a substantial degree of genetic difference between populations of _Primula cusickiana_ var. _maguirei_, the complex member found in Logan Canyon. My work aims to genomically compare these complex members through GBS techniques, and place the population structure of _P. cusickiana_ var. _maguirei_ into a wider context. This work was guided by Dr. Paul Wolf as part of the [Wolf Lab](https://paulwolflab.com/), and a preprint can be accessed [here](https://www.biorxiv.org/content/10.1101/2021.03.19.436082v1).
+summary: The four members of the _Primula cusickiana_ species complex were each historically classified as their own species, before a 2001 review subsumed them to varieties of the same species (due to largely similar morphologies). I used RADseeq to examine the genetic separation between these varieties, and to verify past findings of large genetic distance between proximate populations of variety _maguirei_, the complex member found in Logan Canyon. This research was guided by [Dr. Paul Wolf](https://paulwolflab.com/) and [Dr. Will Pearse](http://pearselab.com/), and has been published in [Systematic Botany](https://bioone.org/journals/systematic-botany/volume-47/issue-3/036364422X16573019348175/Pronounced-Genetic-Separation-among-Varieties-of-the-Primula-cusickiana-Species/10.1600/036364422X16573019348175.short).
 tags:
-date: "2017-04-27T00:00:00Z"
+date: "2022-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/akoontz11/Primula
+external_link: https://bioone.org/journals/systematic-botany/volume-47/issue-3/036364422X16573019348175/Pronounced-Genetic-Separation-among-Varieties-of-the-Primula-cusickiana-Species/10.1600/036364422X16573019348175.short
 
 image:
 
