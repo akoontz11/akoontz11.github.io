@@ -40,7 +40,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Publication link
-#   url: https://bioone.org/journals/systematic-botany/volume-47/issue-3/036364422X16573019348175/Pronounced-Genetic-Separation-among-Varieties-of-the-Primula-cusickiana-Species/10.1600/036364422X16573019348175.short
+   url: https://bioone.org/journals/systematic-botany/volume-47/issue-3/036364422X16573019348175/Pronounced-Genetic-Separation-among-Varieties-of-the-Primula-cusickiana-Species/10.1600/036364422X16573019348175.short
 
 url_pdf: ''
 url_code: ''
