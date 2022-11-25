@@ -12,7 +12,7 @@ author_notes:
 - ""
 
 date: "2022-09-01T00:00:00Z"
-doi: "https://doi.org/10.1600/036364422X16573019348175"
+doi: "https://doi.org/10.1600/i0363-6445-47-3-887-"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-01T00:00:00Z"
@@ -24,8 +24,8 @@ publishDate: "2022-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: bioRXiv
-publication_short: 
+publication: Systematic Botany
+publication_short: SysBot
 
 abstract: 
 
