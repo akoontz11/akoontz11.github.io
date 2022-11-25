@@ -13,7 +13,7 @@ author_notes:
 
 
 date: "2020-04-20T00:00:00Z"
-doi: "https://doi.org/10.1002/ecs2.3832"
+doi: "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15123?casa_token=7RmEQ4q98CMAAAAA:PA4qbKl3FTitQBCcybBafzAhWqo2m9IPD7d_IbF3HV9iBRmArpeLQsNdWxXbqXg6Ss5a300YMalIeeM"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
