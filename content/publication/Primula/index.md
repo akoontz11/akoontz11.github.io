@@ -35,12 +35,12 @@ summary: We use RADseq to clarify the relations between geographically distinct 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Publication link
-   url: https://bioone.org/journals/systematic-botany/volume-47/issue-3/036364422X16573019348175/Pronounced-Genetic-Separation-among-Varieties-of-the-Primula-cusickiana-Species/10.1600/036364422X16573019348175.short
+# url: 
 
 url_pdf: ''
 url_code: ''
