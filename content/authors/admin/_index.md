@@ -20,7 +20,7 @@ bio: My research interests include conservation genetics, plant populations gene
 interests:
 - Conservation Genetics
 - Plant Population Genetics
-- Phylogenetics
+- Long-distance bike touring
 
 # Education to show in About widget
 education:
