@@ -22,9 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Research Consultant
+  - title: Research Consultant
     company: Self-employed
-    company_logo: 
     location: Eugene, OR
     date_start: '2023-11-01'
     date_end: 
