@@ -22,15 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Research Consultant
+    company: Self-employed
+    company_logo: 
+    location: Eugene, OR
+    date_start: '2023-11-01'
+    date_end: 
+    description: |2-
+        I'm currently a Research Consultant for the Hoban Lab, where I continue to support the projects I worked on in my prior role as a Research Assistant with the Morton Arboretum. I also collaborate with researchers at other botanic gardens and arboreta, and serve as the system administrator for the Hoban Lab Linux server.
+        
   - title: Research Assistant II
     company: Morton Arboretum
     company_url: 'https://mortonarb.org/#!'
     company_logo: org-ma
     location: Lisle, IL
     date_start: '2021-07-26'
-    date_end: 
+    date_end: '2023-10-27'
     description: |2-
-        My current role consists of performing genetic analyses for projects focused on the conservation and management of rare trees, both in wild (_in situ_) and garden (_ex situ_) scenarios. I also serve as the system administrator for the Hoban Lab Linux server, and the majority of my work consists of bioinformatic analyses.
+        In my previous role with the Morton Arboretum, I conducted genetic analyses for projects focused on the conservation and management of rare trees, both in wild (_in situ_) and garden (_ex situ_) scenarios. 
         
   - title: Applications Specialist
     company: Hamilton Robotics
