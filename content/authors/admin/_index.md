@@ -6,14 +6,12 @@ title: Austin Koontz
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant
+role: Research Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Hoban Conservation Lab
   url: https://www.hobanlab.com/
-- name: The Morton Arboretum
-  url: https://mortonarb.org/science/center-for-tree-science/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include conservation genetics, plant populations genetics, and RADseq analysis
@@ -69,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm currently a Research Assistant in the [Hoban Conservation Lab](https://www.hobanlab.com/), with the [Center for Tree Science](https://mortonarb.org/science/center-for-tree-science/) at the Morton Arboretum. Using population genetic data, I work with other members of the lab, and other groups within and outside of the Arboretum, to inform the conservation of rare plant species. 
+I'm currently a Research Consultant working remotely for the [Hoban Conservation Lab](https://www.hobanlab.com/). Using population genetic data, I work with other members of the lab and folks from different botanic gardens and arboreta to inform the conservation of rare plant species. 
 
 Currently, I'm comparing two types of genetic markers (SNPs generated using RADseq, and more traditional microsatellites) and exploring how the choice of these markers effects measures of _ex situ_ conservation. I'm using genetic sequences from two rare oak species (_Quercus boyntonii_ and _Q. acerifola_) for the empirical data of this project, which is part of a broader effort by the [Global Conservation Consortium for Oaks (GCCO)](https://www.globalconservationconsortia.org/gcc/oak/) to protect threatened oak species. Links to the code for this analysis are below.
 
