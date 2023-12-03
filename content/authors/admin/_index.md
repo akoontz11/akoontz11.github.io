@@ -14,7 +14,7 @@ organizations:
   url: https://www.hobanlab.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include conservation genetics, plant populations genetics, and RADseq analysis
+bio: My research interests include conservation genomics, plant populations genetics, and RADseq analysis
 
 # Interests to show in About widget
 interests:
