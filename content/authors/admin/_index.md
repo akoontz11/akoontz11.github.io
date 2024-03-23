@@ -67,9 +67,9 @@ email: ""
 highlight_name: true
 ---
 
-I'm currently a Research Consultant working remotely for the [Hoban Conservation Lab](https://www.hobanlab.com/). Using population genetic data, I work with other members of the lab and folks from different botanic gardens and arboreta to inform the conservation of rare plant species. 
+I'm a Research Consultant for the [Hoban Conservation Lab](https://www.hobanlab.com/). Using population genetic data, I work with other members of the lab and folks from different botanic gardens and arboreta to inform the conservation of rare plant species. 
 
-Currently, I'm comparing two types of genetic markers (SNPs generated using RADseq, and more traditional microsatellites) and exploring how the choice of these markers effects measures of _ex situ_ conservation. I'm using genetic sequences from two rare oak species (_Quercus boyntonii_ and _Q. acerifola_) for the empirical data of this project, which is part of a broader effort by the [Global Conservation Consortium for Oaks (GCCO)](https://www.globalconservationconsortia.org/gcc/oak/) to protect threatened oak species. Links to the code for this analysis are below.
+Currently, I'm working on a project seeking to measure the correlation between geographic and genetic metrics of _ex situ_ collection breadth. This is part of an [IMLS grant](https://www.imls.gov/grants/awarded/mg-251613-oms-22) which seeks to improve how botanic gardens utilize genetic data. I'm also conducting genetic analyses on red oaks distributed across Texas.
 
 I received my Master's of Science degree at Utah State University, where I worked in the [Pearse Lab](http://pearselab.com/) and the [Wolf Lab](https://paulwolflab.com/). More information about the research I did in each of these labs can also be found below. 
 
