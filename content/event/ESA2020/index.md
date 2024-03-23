@@ -1,5 +1,5 @@
 ---
-title: Resolving the systematics of an endangered primrose species complex (_Primula cusickiana_) to inform management in the Great Basin region of the United States
+title: Resolving the systematics of an endangered primrose species complex (Primula cusickiana) to inform management in the Great Basin region of the United States
 
 event: Ecological Society of America 2020
 event_url: 
