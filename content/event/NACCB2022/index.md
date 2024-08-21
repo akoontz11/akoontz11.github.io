@@ -34,7 +34,7 @@ links:
 - icon: graduation-cap
   icon_pack: fas
   name: 
-  url: https://docs.google.com/presentation/d/1VX5fcSBr_0zARsUIuLJqOWECzmhhSv0uu1TdAdqTHr0/edit?usp=sharing
+  url: https://drive.google.com/open?id=1VY8cMKjoszzbCSoA7Zbsqh6opfPHl6clPWuRqI8F7kU&usp=drive_copy
 url_code: ""
 url_pdf: ""
 url_slides: ""
