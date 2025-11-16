@@ -8,7 +8,6 @@ title: "iNaturalist Observations"
 
 These are some of my recent observations from iNaturalist, a platform near and dear to my heart.
 
-{{% raw %}}
 <style>
 /* Main container */
 .inat-widget {
@@ -129,5 +128,3 @@ These are some of my recent observations from iNaturalist, a platform near and d
     </tr>
   </table>
 </div>
-
-{{% /raw %}}
