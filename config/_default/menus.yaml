@@ -18,7 +18,7 @@ main:
     weight: 25
   - name: iNaturalist
     url: '#inaturalist'
-    weight: 25
+    weight: 30
   - name: Presentations
     url: '#presentations'
     weight: 35
