@@ -16,15 +16,18 @@ main:
   - name: Publications
     url: '#publications'
     weight: 25
+  - name: iNaturalist
+    url: '#inaturalist'
+    weight: 25
   - name: Presentations
     url: '#presentations'
-    weight: 30
+    weight: 35
   - name: Accomplishments
     url: '#accomplishments'
-    weight: 35
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
-    url: uploads/resume.pdf
-    weight: 70
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
