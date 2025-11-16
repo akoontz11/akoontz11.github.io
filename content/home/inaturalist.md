@@ -6,7 +6,7 @@ weight: 30
 title: "iNaturalist Observations"
 ---
 
-These are some of my recent observations from iNaturalist, a platform near and dear to my heart
+These are some of my recent observations from iNaturalist, a platform near and dear to my heart.
 
 {{% raw %}}
 <style>
