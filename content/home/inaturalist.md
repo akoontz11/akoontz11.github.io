@@ -6,12 +6,11 @@ weight: 30
 title: "iNaturalist Observations"
 ---
 
-These are some of my recent observations from iNaturalist.
-If you want to see more, follow me there! [austinkoontz11](https://www.inaturalist.org/people/austinkoontz11)
+These are some of my recent observations from iNaturalist, a platform near and dear to my hear
 
 {{% raw %}}
 <style>
-/* Container */
+/* Main container */
 .inat-widget {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   padding: 1rem 0;
@@ -23,53 +22,74 @@ If you want to see more, follow me there! [austinkoontz11](https://www.inaturali
   margin-bottom: 1rem;
 }
 
-/* Observation layout */
-.inat-observation {
-  display: flex;
-  align-items: flex-start;
-  gap: 1rem;
-  padding: 1rem 0;
-  border-bottom: 1px solid #e5e5e5;
+/* GRID LAYOUT for observation list */
+.inat-widget table {
+  width: 100%;
 }
 
-.inat-observation:last-child {
-  border-bottom: none;
+/* Replace table layout with CSS grid */
+.inat-widget tr {
+  display: block !important;
+}
+
+.inat-widget tbody {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.25rem;
+  width: 100%;
+}
+
+/* Individual observation card */
+.inat-observation {
+  display: flex !important;
+  flex-direction: column;
+  background: #fafafa;
+  padding: 0.75rem;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+  height: 100%;
 }
 
 /* Image */
 .inat-observation-image img {
-  width: 120px;
-  height: auto;
-  border-radius: 8px;
+  width: 100%;
+  height: 180px;
   object-fit: cover;
+  border-radius: 8px;
 }
 
-/* Text */
+/* Text block */
 .inat-observation-body {
+  margin-top: 0.5rem;
   flex: 1;
 }
 
 .inat-label {
   color: #666;
-  font-weight: 500;
-  margin-right: 4px;
+  font-size: 0.9rem;
+  font-weight: 600;
 }
 
 .inat-meta {
-  color: #888;
-  font-size: 0.9rem;
-  margin-top: 0.25rem;
+  margin-top: 0.35rem;
+  color: #777;
+  font-size: 0.85rem;
+  line-height: 1.3;
 }
 
-/* Footer */
+/* Footer (user info) */
+.inat-footer {
+  margin-top: 1.5rem;
+}
+
 .inat-user {
   display: flex;
   align-items: center;
-  margin-top: 1.5rem;
 }
 
 .inat-user-image img {
   width: 48px;
+  height: 48px;
   border-radius: 50%;
 }
 
@@ -86,24 +106,28 @@ If you want to see more, follow me there! [austinkoontz11](https://www.inaturali
   </div>
 
   <!-- iNaturalist widget script -->
-  <script type="text/javascript"
-    src="https://www.inaturalist.org/observations/austinkoontz11.widget?layout=large&limit=5&order=desc&order_by=observed_on">
+  <script
+    type="text/javascript"
+    src="https://www.inaturalist.org/observations/austinkoontz11.widget?layout=large&limit=9&order=desc&order_by=observed_on">
   </script>
 
   <!-- Footer -->
-  <div class="inat-user">
-    <div class="inat-user-image">
-      <a href="https://www.inaturalist.org/observations/austinkoontz11">
-        <img src="https://static.inaturalist.org/attachments/users/icons/2369873/thumb.jpeg?1685304639" />
-      </a>
-    </div>
-    <div class="inat-user-body">
-      <strong>
+  <table class="inat-footer">
+    <tr class="inat-user">
+      <td class="inat-user-image">
         <a href="https://www.inaturalist.org/observations/austinkoontz11">
-          View austinkoontz11's observations »
+          <img src="https://static.inaturalist.org/attachments/users/icons/2369873/thumb.jpeg?1685304639" />
         </a>
-      </strong>
-    </div>
-  </div>
+      </td>
+      <td class="inat-user-body">
+        <strong>
+          <a href="https://www.inaturalist.org/observations/austinkoontz11">
+            View austinkoontz11's observations »
+          </a>
+        </strong>
+      </td>
+    </tr>
+  </table>
 </div>
+
 {{% /raw %}}
