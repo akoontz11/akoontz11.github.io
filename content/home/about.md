@@ -12,7 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Biography
+# Commenting out the title for this section; can include later
+# title: Biography
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
