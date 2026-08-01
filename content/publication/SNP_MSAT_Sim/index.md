@@ -42,7 +42,7 @@ featured: false
 # - name: Publication link
 # url: 
 
-url_pdf: ''
+url_pdf: 'uploads/SNP_MSAT_Sim.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
