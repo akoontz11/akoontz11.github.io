@@ -1,5 +1,5 @@
 ---
-title: Population genetics of the Southwest Texas red oaks: characterizing North America’s most elusive oak
+title: "Population genetics of the Southwest Texas red oaks: characterizing North America’s most elusive oak""
 
 event: Botany, 2025
 event_url: https://2025.botanyconference.org/abstract-submission-topics.html

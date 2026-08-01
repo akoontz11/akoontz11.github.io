@@ -1,5 +1,5 @@
 ---
-title: Assessing the genetic status of species listed under the United States Endangered Species Act using practical indicators
+title: "Assessing the genetic status of species listed under the United States Endangered Species Act using practical indicators"
 
 event: North American Congress on Conservation Biology, 2024
 event_url: https://scbnorthamerica.org/index.php/naccb-2024/

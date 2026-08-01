@@ -1,5 +1,5 @@
 ---
-title: Population genetics of the Southwest Texas red oaks: characterizing North America’s most elusive oak
+title: "Population genetics of the Southwest Texas red oaks: characterizing North America’s most elusive oak"
 
 event: Texas Plant Conservation Conference, 2025
 event_url: https://www.wildflower.org/event/texas-plant-conservation-conference
