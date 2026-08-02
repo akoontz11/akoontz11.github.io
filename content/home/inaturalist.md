@@ -6,7 +6,7 @@ weight: 20
 title: "iNaturalist Observations"
 ---
 
-These are some of my recent observations from iNaturalist. If you want to see more, follow me there! [austinkoontz11](https://www.inaturalist.org/people/austinkoontz11)
+These are some of my recent observations from iNaturalist. If you want to see more, [follow me there](https://www.inaturalist.org/people/austinkoontz11)!
 
 <div class="inat-widget">
   <div id="inat-grid" class="inat-grid">
