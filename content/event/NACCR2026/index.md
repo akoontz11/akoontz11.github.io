@@ -1,10 +1,10 @@
 ---
-title: "Population genetics of the Southwest Texas red oaks: characterizing North America’s most elusive oak"
+title: "How well does ecogeographic variation predict genetic diversity? An exploration of commonly used ex situ conservation metrics"
 
-event: Texas Plant Conservation Conference, 2025
-event_url: https://www.wildflower.org/event/texas-plant-conservation-conference
+event: NACCR, 2026
+event_url: https://scbnorthamerica.org/index.php/naccr-2026/
 
-location: Austin, TX, USA
+location: Milwaukee, WA, USA
 address:
   street: 
   city: 
@@ -22,7 +22,7 @@ abstract:
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-07-20T00:00:00Z"
+publishDate: "2026-07-13T00:00:00Z"
 
 authors: []
 tags: []
@@ -34,7 +34,7 @@ links:
 - icon: graduation-cap
   icon_pack: fas
   name: 
-  url: 
+  url: https://drive.google.com/open?id=1VY8cMKjoszzbCSoA7Zbsqh6opfPHl6clPWuRqI8F7kU&usp=drive_copy
 url_code: ""
 url_pdf: ""
 url_slides: ""
