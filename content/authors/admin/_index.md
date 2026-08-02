@@ -68,6 +68,6 @@ I'm a Research Consultant for the [Hoban Conservation Lab](https://www.hobanlab.
 
 Currently, I'm working on a project seeking to measure the correlation between geographic and genetic metrics of _ex situ_ collection breadth. This is part of an [IMLS grant](https://www.imls.gov/grants/awarded/mg-251613-oms-22) which seeks to improve how botanic gardens utilize genetic data. I'm also conducting genetic analyses on red oaks distributed across Texas.
 
-I received my Master's of Science degree at Utah State University, where I worked in the [Pearse Lab](http://pearselab.com/) and the [Wolf Lab](https://paulwolflab.com/). More information about the research I did in each of these labs can also be found below. 
+You can find more of my research below.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
