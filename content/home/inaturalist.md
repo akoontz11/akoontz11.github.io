@@ -9,12 +9,6 @@ title: "iNaturalist Observations"
 These are some of my recent observations from iNaturalist. If you want to see more, follow me there! [austinkoontz11](https://www.inaturalist.org/people/austinkoontz11)
 
 <div class="inat-widget">
-  <div class="inat-widget-header">
-    <a href="https://www.inaturalist.org/people/austinkoontz11" target="_blank" rel="noopener">
-      <img alt="iNaturalist" src="/media/inaturalist-logo.png" />
-    </a>
-  </div>
-
   <div id="inat-grid" class="inat-grid">
     <p class="inat-loading">Loading recent observations…</p>
   </div>
@@ -31,15 +25,6 @@ These are some of my recent observations from iNaturalist. If you want to see mo
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   padding: 1rem 0;
   max-width: 100%;
-}
-
-.inat-widget-header {
-  margin-bottom: 1rem;
-}
-
-.inat-widget-header img {
-  height: 32px;
-  width: auto;
 }
 
 .inat-grid {
