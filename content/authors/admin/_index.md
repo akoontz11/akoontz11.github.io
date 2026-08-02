@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Austin Koontz
+title: Austin Koontz, MSc.
 
 # Is this the primary user of the site?
 superuser: true
