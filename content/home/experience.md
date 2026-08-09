@@ -39,6 +39,16 @@ experience:
     date_end: '2023-10-27'
     description: |2-
         In my previous role with the Morton Arboretum, I conducted genetic analyses for projects focused on the conservation and management of rare trees, both in wild (_in situ_) and garden (_ex situ_) scenarios. 
+  
+  - title: Master's Student
+    company: Utah State University, Department of Biology
+    company_url: 'https://artsci.usu.edu/biology/'
+    company_logo: org-usu
+    location: Logan, UT
+    date_start: '2020-05-15'
+    date_end: '2018-09-01'
+    description: |2-
+        While obtaining my Master's at Utah State University, I was advised by [Dr. Will Pearse](https://pearselab.com/) and [Dr. Paul Wolf](https://paulwolflab.com/).
         
   - title: Applications Specialist
     company: Hamilton Robotics
