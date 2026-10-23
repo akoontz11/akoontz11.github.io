@@ -1,5 +1,5 @@
 ---
-title: "Assessing the population genetics of *Quercus tardifolia* and other red oaks in west Texas"
+title: "Assessing the population genetics of Quercus tardifolia and other red oaks in west Texas"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
